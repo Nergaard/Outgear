@@ -1,6 +1,7 @@
 <?php 
 include_once('include/pdo_con_inc.php') 
-#Add header
+include_once('pages/head.php')
+include_once('pages/header.php')
 ?>
 
 <main class="main_wrapper">
