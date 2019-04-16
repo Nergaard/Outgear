@@ -5,8 +5,8 @@
   <a href="#home" class="active">Outgear</a>
   <!-- Navigation links (hidden by default) -->
   <div id="myLinks">
-    <a href="#Articles">News</a>
-    <a href="#Products">Contact</a>
+    <a href="#Articles">Articles</a>
+    <a href="#Products">Products</a>
     <a href="#About">About</a>
   </div>
   <!-- "Hamburger menu" / "Bar icon" to toggle the navigation links -->
