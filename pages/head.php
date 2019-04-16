@@ -1,4 +1,4 @@
-<?php session_start(); ?>
+<?php session_start();?>
 <!DOCTYPE html>
 <html>
 	<head>
@@ -11,4 +11,4 @@
 	</head>
 
 	<body>
-	<script  src="main.js"></script>
+	<script src="JS/main.js"></script>
